@@ -1,6 +1,18 @@
-{
-    "debug": {
-        "debug.userName": "Gebruikersnaam",
-        "debug.help": ""
+[
+    {
+        "term": "debug.userName",
+        "definition": "Gebruikersnaam",
+        "context": "debug",
+        "term_plural": "",
+        "reference": "debug",
+        "comment": ""
+    },
+    {
+        "term": "debug.help",
+        "definition": null,
+        "context": "debug",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
     }
-}
+]

@@ -1,1 +1,6 @@
-
+{
+    "debug": {
+        "debug.userName": "Username",
+        "debug.help": ""
+    }
+}

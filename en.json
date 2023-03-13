@@ -6,5 +6,8 @@
     "new": "New",
     "common.greetings": {
         "hi": "Hi"
+    },
+    "orders": {
+        "customer.userAccount.name": "hi"
     }
 }

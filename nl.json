@@ -30,5 +30,13 @@
         "term_plural": "",
         "reference": "",
         "comment": ""
+    },
+    {
+        "term": "customer.userAccount.name",
+        "definition": "hi",
+        "context": "orders",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
     }
 ]

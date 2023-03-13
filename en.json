@@ -4,5 +4,7 @@
         "debug.help": "Help me"
     },
     "new": "New",
-    "hi": "Hi"
+    "common.greetings": {
+        "hi": "Hi"
+    }
 }

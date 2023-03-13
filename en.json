@@ -1,6 +1,7 @@
 {
     "debug": {
         "debug.userName": "Username",
-        "debug.help": ""
-    }
+        "debug.help": "Help me"
+    },
+    "new": "New"
 }

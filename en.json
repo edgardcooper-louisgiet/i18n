@@ -3,5 +3,6 @@
         "debug.userName": "Username",
         "debug.help": "Help me"
     },
-    "new": "New"
+    "new": "New",
+    "hi": "Hi"
 }

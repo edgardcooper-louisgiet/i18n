@@ -9,8 +9,16 @@
     },
     {
         "term": "debug.help",
-        "definition": null,
+        "definition": "Help me",
         "context": "debug",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "new",
+        "definition": "Nieuw",
+        "context": "",
         "term_plural": "",
         "reference": "",
         "comment": ""

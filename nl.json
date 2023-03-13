@@ -26,7 +26,7 @@
     {
         "term": "hi",
         "definition": "Hallo",
-        "context": "",
+        "context": "common.greetings",
         "term_plural": "",
         "reference": "",
         "comment": ""
